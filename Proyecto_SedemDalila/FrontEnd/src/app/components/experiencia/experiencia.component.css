@@ -6,4 +6,8 @@ div{
 }
 h1, h3{
     display: inline;
+    color: white;
+}
+p{
+    color: white;
 }

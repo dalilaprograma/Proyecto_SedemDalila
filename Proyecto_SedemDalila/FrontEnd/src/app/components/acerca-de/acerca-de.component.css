@@ -2,9 +2,13 @@
     padding: 20px;
 }
 div{
-    background-color: #f7f8fc;
+    background-color: #353b57;
     text-align: center;
 }
+p, h1{
+    color: white;
+}
+
 
 /*Estilo de la foto*/
 @media (min-width: 576px){

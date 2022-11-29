@@ -15,3 +15,7 @@
 .img-proyectos{
     box-shadow: 0px 0px 50px #0dcaf0;
 }
+
+h1, h2, p{
+    color: white;
+}
